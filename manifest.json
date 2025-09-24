@@ -1,6 +1,6 @@
 {
-  "name": "Weatherly",
-  "short_name": "Weatherly",
+  "name": "Weatherify",
+  "short_name": "Weatherify",
   "description": "A simple weather Progressive Web App",
   "start_url": "/index.html",
   "display": "standalone",
